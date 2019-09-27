@@ -1,1 +1,4 @@
 *.DS_Store
+*.py
+./.idea
+./Lab\ 2/dataset
